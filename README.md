@@ -51,7 +51,7 @@ sistema:
 <div align="center">
 
 ### ⚙️ Core Languages
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 ### 🚀 Frameworks & Backend
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
@@ -63,7 +63,7 @@ sistema:
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
 
 ### 🛠️ Ferramentas Utilizadas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 
 </div>
 
