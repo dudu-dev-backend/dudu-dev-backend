@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/dudu-dev-backend">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+dudu-dev-fullstack...;%3E+Loading+Java+%2B+Spring+Boot+modules...;%3E+Deploying+with+Docker+%26+Kubernetes...;%3E+System+Online.+Welcome%2C+visitor.ciano" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+dudu-dev-backend...;%3E+Loading+Java+%2B+Spring+Boot+modules...;%3E+Deploying+with+Docker+%26+Kubernetes...;%3E+System+Online.+Welcome%2C+visitor.ciano" alt="Typing SVG" />
 </a>
 
 <br><br>
