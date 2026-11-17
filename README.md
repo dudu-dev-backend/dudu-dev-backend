@@ -73,7 +73,7 @@ sistema:
 
 | `Camada`         | `Tecnologias`                                                                 |
 |------------------|-------------------------------------------------------------------------------|
-| **Linguagens**   | ![Java](https://img.shields.io/badge/-Java-00F5FF?style=flat-square&logo=openjdk&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-00F5FF?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-00F5FF?style=flat-square&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-00F5FF?style=flat-square&logo=css3&logoColor=black) |
+| **Linguagens**   | ![Java](https://img.shields.io/badge/-Java-00F5FF?style=flat-square&logo=openjdk&logoColor=black) |
 | **Backend**      | ![Spring](https://img.shields.io/badge/-Spring%20Boot-39FF14?style=flat-square&logo=springboot&logoColor=black) |
 | **Dados**        | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FF00E4?style=flat-square&logo=postgresql&logoColor=white) |
 | **Infra/Cloud**  | ![Docker](https://img.shields.io/badge/-Docker-0aa8ff?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
